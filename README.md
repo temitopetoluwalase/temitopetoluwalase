@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @temitopetoluwalase
-- 👀 I’m interested in Developing Web Applications and Digital Products
+- 👀 I’m interested in Developing Applications and Digital Products
 - 🌱 I’m proficient in HTML5, CSS, JS, TS, REACT, GATSBY, NEXT.
 - 💞️ I’m open to work on inspiring projects.
 - 📫 You can reach me on linkedin: https://www.linkedin.com/in/temitope-toluwalase/
