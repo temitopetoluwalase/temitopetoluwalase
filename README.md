@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @temitopetoluwalase
-- 👀 I’m interested in Developing Applications and Digital Products
+- 👀 I’m interested in making life easy via software solutions 
 - 🌱 I’m proficient in HTML5, CSS, JS, TS, REACT, GATSBY, NEXT.
-- 💞️ I’m open to work on inspiring projects.
-- 📫 You can reach me on linkedin: https://www.linkedin.com/in/temitope-toluwalase/
+- 💞️ I’m open for colloboration.
+- 📫 You can reach me on linkedin: https://www.linkedin.com/in/temitope-toluwalase/ mail: temitopetoluwalase@gmail.com
 
 <!---
 temitopetoluwalase/temitopetoluwalase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
