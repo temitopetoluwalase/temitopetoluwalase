@@ -4,6 +4,8 @@
 - 💞️ I’m open for colloboration.
 - 📫 You can reach me on linkedin: https://www.linkedin.com/in/temitope-toluwalase/ mail: temitopetoluwalase@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temitopetoluwalase)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 temitopetoluwalase/temitopetoluwalase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
